@@ -29,4 +29,4 @@ On screens smaller than 992px, the layout changes to a vertical stack.
 License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 Contact
-For any questions or feedback, please contact the project maintainer at [your-email@example.com].
+For any questions or feedback, please contact the project maintainer at [chpurna2003@.gmail.com].
